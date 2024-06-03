@@ -53,9 +53,9 @@ python data_collection.py
    python train.py
    ```
 4. Real-time Face Detection and Classification: After training is complete, run the main.py script to perform real-time face detection and classification using the trained model. The webcam feed will display the detected faces with bounding boxes and labels indicating whether they are real or spoofed.
-```
-python main.py
-```
+ ```
+ python main.py
+ ```
 
 ## 📂Project Structure
  ```
