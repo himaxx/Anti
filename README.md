@@ -22,4 +22,8 @@ The Face Detection and Classification project aims to address the challenge of d
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/face-detection-classification.git
+git clone https://github.com/himaxx/Anti.git
+
+2. Install the dependencies
+```bash
+pip install opencv-python cvzone ultralytics
