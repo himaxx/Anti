@@ -42,7 +42,7 @@ The Face Detection and Classification project aims to address the challenge of d
 ## 🚀Usage 
 1. Data Collection: Run the data_collection.py script to collect and label face data from your webcam. The collected images and their corresponding labels will be saved in the Dataset/DataCollect directory.
   ```
- python data_collection.py
+  python data_collection.py
   ```
 2. Dataset Splitting: Execute the split.py script to split the collected dataset into train, validation, and test subsets based on a specified ratio. The split data will be stored in the Dataset/SplitData directory, and a datao.yaml file containing the dataset paths and class names will be generated.
    ```
