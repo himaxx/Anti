@@ -1,10 +1,12 @@
 # 🔍 Spoofing Detector
+ 
 
+## Banner
 <p align="center">
   <img src="https://github.com/himaxx/Anti/blob/main/Back.jpg" width="500">
 </p>
 
-
+## UI
 <p align="center">
   <img src="https://github.com/himaxx/Anti/blob/main/check.jpg" width="500">
 </p>
