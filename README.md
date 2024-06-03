@@ -32,18 +32,18 @@ The Face Detection and Classification project aims to address the challenge of d
 1. Clone the repository:
 
  ```
- git clone https://github.com/himaxx/Anti.git
+  git clone https://github.com/himaxx/Anti.git
  ```
 
 2. Installation of Dependencies:
  ```
- pip install opencv-python cvzone ultralytics
+  pip install opencv-python cvzone ultralytics
  ```
 ## 🚀Usage 
 1. Data Collection: Run the data_collection.py script to collect and label face data from your webcam. The collected images and their corresponding labels will be saved in the Dataset/DataCollect directory.
-  ```
-  python data_collection.py
-  ```
+   ```
+   python data_collection.py
+   ```
 2. Dataset Splitting: Execute the split.py script to split the collected dataset into train, validation, and test subsets based on a specified ratio. The split data will be stored in the Dataset/SplitData directory, and a datao.yaml file containing the dataset paths and class names will be generated.
    ```
    python split.py
@@ -53,9 +53,9 @@ The Face Detection and Classification project aims to address the challenge of d
    python train.py
    ```
 4. Real-time Face Detection and Classification: After training is complete, run the main.py script to perform real-time face detection and classification using the trained model. The webcam feed will display the detected faces with bounding boxes and labels indicating whether they are real or spoofed.
- ```
- python main.py
- ```
+   ```
+   python main.py
+   ```
 
 ## 📂Project Structure
  ```
