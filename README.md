@@ -1,5 +1,15 @@
 # 🔍 Spoofing Detector
 
+<p align="center">
+  <img src="https://github.com/himaxx/Anti/blob/main/Back.jpg" width="500">
+</p>
+
+
+<p align="center">
+  <img src="https://github.com/himaxx/Anti/blob/main/check.jpg" width="500">
+</p>
+
+
 This project focuses on detecting and classifying faces in real-time video streams as real or spoofed (fake) using computer vision techniques. The primary objective is to develop a robust system capable of distinguishing between authentic and spoofed faces, enabling potential applications in security, authentication, and related domains.
 
 ## 📚Table of Contents
