@@ -63,6 +63,8 @@ python main.py
 ├── Dataset/
 │   ├── DataCollect/
 │   └── SplitData/
+|   └── Real/
+|   └── Fake/
 ├── data_collection.py
 ├── split.py
 ├── train.py
